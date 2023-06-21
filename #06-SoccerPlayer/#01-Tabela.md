@@ -12,6 +12,8 @@
 | player_count_tournament_wins |  |  |  |
 | player_count_wins |  |  |  |
 | player_count_wins |  |  |  |
+| player_count_goals | | | |
+| player_count_goals_received | | | em caso de goleiros |
 | user_id |  |  |  |
 | user_creator_id |  |  | usuário que criou |
 | pseudo | booleano |  | define se o usuário existe |
