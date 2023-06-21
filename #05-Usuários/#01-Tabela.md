@@ -9,7 +9,7 @@
 | whatsapp |  |  |  |
 | age |  |  |  |
 | nick |  |  | arroba |
-| CPF |  |  |  |
+| cpf |  |  |  |
 | maneger | booleano |  |  |
 | punter | booleano |  |  |
 | password |  |  |  |
