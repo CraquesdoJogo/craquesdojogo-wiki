@@ -10,8 +10,6 @@
 | player_count_games |  |  |  |
 | player_count_games_wins |  |  |  |
 | player_count_tournament_wins |  |  |  |
-| player_count_wins |  |  |  |
-| player_count_wins |  |  |  |
 | player_count_goals | | | |
 | player_count_goals_received | | | em caso de goleiros |
 | user_id |  |  |  |
