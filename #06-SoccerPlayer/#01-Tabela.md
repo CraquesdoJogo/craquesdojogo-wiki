@@ -1,2 +1,4 @@
-
-| Campo | Tipo | Padrão | Descrição | | | | | |
+| Nome | Tipo | Padrão | Descrição |
+|------|------|--------|-----------|
+| id |  |  |  |
+| name |  |  |  |
