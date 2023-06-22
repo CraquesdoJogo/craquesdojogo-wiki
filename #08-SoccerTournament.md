@@ -1,0 +1,1 @@
+Gerenciar torneios de futebol
