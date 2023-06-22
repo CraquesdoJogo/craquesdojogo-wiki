@@ -1,0 +1,1 @@
+Pasta para módulos do backend, definindo tabelas, funções, controllers, permissões e endpoints
