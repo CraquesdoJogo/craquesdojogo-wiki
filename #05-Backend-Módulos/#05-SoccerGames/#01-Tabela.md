@@ -3,6 +3,7 @@
 | id |  |  |  |
 | team_id_1 |  |  |  |
 | team_id_2 |  |  |  |
+| home_team |  |  |  |
 | descption |  |  |  |
 | soccer_tournament_id |  |  |  |
 | picture |  |  |  |

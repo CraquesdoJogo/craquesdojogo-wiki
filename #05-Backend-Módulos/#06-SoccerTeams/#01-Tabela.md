@@ -4,7 +4,7 @@
 | name |  |  |  |
 | picture |  |  |  |
 | description |  |  |  |
-| soccer_pitch |  |  |  |
+| soccer_pitch_id |  |  |  |
 | user_id |  |  | dono |
 | contact_whatsapp |  |  | |
 | contact_email |  |  | |
